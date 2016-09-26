@@ -11,4 +11,4 @@ Move between splits:
 Move between buffers:
 * `<leader>n` - next buffer in list
 * `<leader>n` - previous buffer in list
-* `<leader>n` - toggle to last used buffer
+* `<leader>#` - toggle to last used buffer
